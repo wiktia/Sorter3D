@@ -1,0 +1,1 @@
+To play the game, download sorterinstaller.exe and follow the tutorial. Most of the objects in the game were created by me, as well as the code itself. The game is planned to be expanded in the future. :)
